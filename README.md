@@ -1,2 +1,3 @@
 # 10regteam.github.io
-Мой сайт
+We are a novice mobile game development team.
+There will be more interesting things here soon...
